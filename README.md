@@ -1,4 +1,5 @@
 # Apna-Collage
 This is my first repository
 <br>
-Author - Abhay maddheshiya
+Author - Abhay maddheshiya (kiet) 
+Name AbhayMaddheshiya
